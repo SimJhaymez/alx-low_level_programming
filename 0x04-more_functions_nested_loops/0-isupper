@@ -1,0 +1,11 @@
+#include "main.h"
+
+/**
+*isupper -> this is a fundtion to check upper case alphas
+*@c: an integer paramer
+*Return: something but success
+*/
+int _isuppwe(int c)
+{
+return (c >= 'A' && a <= 'Z);
+}
